@@ -749,7 +749,9 @@ h4 {
 .text-left {
     text-align: left;
 }
-
+.toast {
+    backdrop-filter: 0;
+}
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
