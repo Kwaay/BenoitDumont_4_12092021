@@ -739,7 +739,6 @@ h4 {
 }
 .n2 {
     display: flex;
-    justify-content: center;
     margin-top: 10px;
     margin-left: -50px;
 }
